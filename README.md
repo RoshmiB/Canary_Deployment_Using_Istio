@@ -22,6 +22,11 @@ Canary_Deployment_Using_Istio
     helm install demoappv2 ./weatherapp-ui --set deployment.tag=v2 --namespace stage
     kubectl apply -f IG_VS.yaml
     
+![image](https://user-images.githubusercontent.com/42956498/174123776-40bc462f-eb3c-4b35-a3bb-92a161540abb.png)
+
+![image](https://user-images.githubusercontent.com/42956498/174124190-9e696d61-54c3-459b-b7a7-f8947659c491.png)
+
+    
     
     
 
