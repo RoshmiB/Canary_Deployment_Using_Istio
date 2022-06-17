@@ -18,6 +18,7 @@ Canary_Deployment_Using_Istio
     kubectl create namespace stage
     kubectl label namespace prod istio-injection=enabled
     kubectl label namespace stage istio-injection=enabled
+    kubectl label namespace default istio-injection=enabled
     helm install demoappv1 ./weatherapp-ui --set deployment.tag=v1 --namespace prod
     helm install demoappv2 ./weatherapp-ui --set deployment.tag=v2 --namespace stage
     kubectl apply -f IG_VS.yaml
