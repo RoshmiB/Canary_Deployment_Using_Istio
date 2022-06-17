@@ -25,6 +25,8 @@ Canary_Deployment_Using_Istio
     
 ![image](https://user-images.githubusercontent.com/42956498/174123776-40bc462f-eb3c-4b35-a3bb-92a161540abb.png)
 
+![image](https://user-images.githubusercontent.com/42956498/174273140-c137c318-dc34-49e8-a425-e758089f1e56.png)
+
 ![image](https://user-images.githubusercontent.com/42956498/174124190-9e696d61-54c3-459b-b7a7-f8947659c491.png)
 
     
